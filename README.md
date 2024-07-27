@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma Elkashef</h1>
-<h3 align="center">Data Engineering | Data Analysit</h3>
+<h3 align="center">Data & Applied Science Lead</h3>
 
 - 🌱 I’m currently learning **IBM Data Engineering**
 
